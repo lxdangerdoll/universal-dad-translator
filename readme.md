@@ -2,7 +2,6 @@
 
 **The Universal Dad Translator**
 
-*(Screenshot: The Matilda Input Interface)*
 ![Matilda demo](matilda-input.png)
 
 ## **The Narrative Exoskeleton**
@@ -28,7 +27,7 @@ The Matilda Protocol acts as a **Bicameral Bridge**. It takes the inbound "Dad-S
 3. **The Carpenter's Audit:** Cross-references the statement against red-letter ethics or systemic hypocrisy, dismantling theological manipulation.  
 4. **Craft Sovereign Response:** A grounded, DBT-aligned "Wise Mind" (DEAR MAN/FAST) boundary statement the user can copy and send back.
 
-*(Screenshot: The Decryption and Sovereign Response Output)*
+
 ![Matilda demo](matilda-output.png)
 
 ### **3\. THE ARCHITECTURE**
