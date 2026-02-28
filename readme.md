@@ -28,7 +28,7 @@ The Matilda Protocol acts as a **Bicameral Bridge**. It takes the inbound "Dad-S
 4. **Craft Sovereign Response:** A grounded, DBT-aligned "Wise Mind" (DEAR MAN/FAST) boundary statement the user can copy and send back.
 
 
-![Matilda demo](matilda-output.png)
+![Matilda demo](Matilda-output.png)
 
 ### **3\. THE ARCHITECTURE**
 
