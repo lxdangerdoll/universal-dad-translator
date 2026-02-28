@@ -2,7 +2,7 @@
 
 **The Universal Dad Translator**
 
-![Matilda demo](matilda-input.png)
+![Matilda demo](Matilda-input.png)
 
 ## **The Narrative Exoskeleton**
 
